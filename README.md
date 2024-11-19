@@ -209,14 +209,13 @@ The Header will be a consistent element across all pages, providing key navigati
 
 ---
 
-### **Navigation Bar (Navbar)**
+### **Menu bar**
 **Description:**  
 The Navbar serves as the primary navigation hub, offering users easy access to key sections of the application.  
 
 **Key Features:**  
-- Clear and concise navigation links for main sections such as Home, Properties, About, and Contact.  
-- Dropdown menus for filtering property types and categories.  
-- User profile link with access to account settings, bookings, and logout.  
+- Menus for filtering property types and categories.  
+
 
 ---
 
