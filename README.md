@@ -192,3 +192,121 @@ The Scrum Master facilitates Agile practices and ensures the team follows Scrum 
 - Coach the team on Agile principles and methodologies.  
 - Promote continuous improvement within the team.  
 
+
+## UI Component Patterns 
+
+The AirBnB Clone project will feature a collection of reusable and scalable UI components to ensure consistency and efficiency during development. Below are the primary components planned for the project:
+
+### **Header**
+**Description:**  
+The Header will be a consistent element across all pages, providing key navigation and branding elements.  
+
+**Key Features:**  
+- Logo and branding positioned prominently on the left.  
+- Search bar for property searches, allowing users to quickly find listings.  
+- Sign-up/sign-in buttons on the right for user account management.  
+- A responsive layout that adapts to both desktop and mobile screens.  
+
+---
+
+### **Navigation Bar (Navbar)**
+**Description:**  
+The Navbar serves as the primary navigation hub, offering users easy access to key sections of the application.  
+
+**Key Features:**  
+- Clear and concise navigation links for main sections such as Home, Properties, About, and Contact.  
+- Dropdown menus for filtering property types and categories.  
+- User profile link with access to account settings, bookings, and logout.  
+
+---
+
+### **Property Listing Card**
+**Description:**  
+The Property Listing Card will showcase key information about each property in a visually engaging, compact design.  
+
+**Key Features:**  
+- A large, high-quality property image as the focal point.  
+- Title, price, and location clearly displayed.  
+- Star ratings and review count for social proof.  
+- Hover effects for dynamic interactivity and user engagement.  
+- A “View Details” button for users to explore more information about the property.
+
+---
+
+### **Footer**
+**Description:**  
+The Footer will provide essential links and information to improve site navigation and user experience.  
+
+**Key Features:**  
+- Links to important pages like About Us, Terms of Service, Privacy Policy, and Help Center.  
+- Social media icons linking to external platforms.  
+- Copyright and branding information.  
+- An adaptive design for both desktop and mobile viewing.  
+
+---
+
+### **Property Image Gallery**
+**Description:**  
+This component will display an interactive gallery of images for a specific property, allowing users to browse visuals in a slideshow format.  
+
+**Key Features:**  
+- High-quality images showcasing the property’s interior, exterior, and amenities.  
+- Image carousel with navigation arrows for smooth browsing.  
+- Zoom-in feature for detailed views of key areas.  
+
+---
+
+### **Property Overview**
+**Description:**  
+The Property Overview will present key information about the property, giving users a summary of what they can expect.  
+
+**Key Features:**  
+- A brief description of the property’s features, layout, and unique selling points.  
+- Information about what’s included (e.g., amenities, facilities, etc.).  
+- Reviews from previous guests and host information for added trust.  
+
+---
+
+### **Property Features**
+**Description:**  
+This section will detail the specific features and amenities of the property, helping users understand what makes the property stand out.  
+
+**Key Features:**  
+- Lists of key features such as Wi-Fi, parking, kitchen appliances, etc.  
+- Icons or badges for easy visual scanning.  
+- Details about the property’s accessibility, safety measures, and other important features.  
+
+---
+
+### **Guest Reviews**
+**Description:**  
+The Guest Reviews section will showcase feedback from past guests, giving potential renters insights into their experience.  
+
+**Key Features:**  
+- Profile pictures, names, and review dates of previous guests.  
+- Star ratings and review comments.  
+- An option for users to filter reviews by rating or date.  
+
+---
+
+### **Reservation Form**
+**Description:**  
+The Reservation Form will allow users to book a property by selecting dates, guest count, and other necessary details.  
+
+**Key Features:**  
+- Fields for selecting check-in and check-out dates.  
+- Number of guests, including adults and children.  
+- Total cost estimate for the selected stay duration.  
+- Call-to-action button to proceed with booking.  
+
+---
+
+### **Checkout Page**
+**Description:**  
+The Checkout Page will handle the final steps of booking, including payment processing and order confirmation.  
+
+**Key Features:**  
+- A secure payment form with options for credit/debit cards or other payment methods.  
+- A summary of the booking details, including property name, dates, and total amount.  
+- Option for users to enter promo codes or apply discounts.  
+- A final "Confirm Booking" button to complete the reservation.  
